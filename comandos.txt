@@ -1,0 +1,1 @@
+npm install @emotion/react @emotion/styled //intala dependencias style components
